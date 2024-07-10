@@ -1,0 +1,33 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+  {%- seo -%}
+  <style>
+    html, body {
+      height: 100%; width: 100%;
+      padding: 0; margin: 0;
+    }
+
+    body {
+      background-image: url('{{ site.baseurl }}/assets/images/background.png');
+      background-size: cover; /* Adjusts the background image to cover the entire area */
+      background-repeat: no-repeat; /* Prevents the background image from repeating */
+      background-position: bottom; /* Centers the background image */
+      background-attachment: fixed; /* Keeps the background image fixed during scrolling */
+    }
+
+    header, body, footer, html, p, div, h1, h2, h3, h4, h5, h6, ul, li, a, span, img, blockquote, hr, table, tr, th, td, form, input, button {
+      font-family: 'DM Sans', sans-serif;
+    }
+
+  </style>
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+</head>
