@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Case for Open Source Legal AI: Transparency, Community, and Trust"
-date: 2024-07-09 12:09:45 -0400
+date: 2024-07-01 12:09:45 -0400
 ---
 
 If the goal is to enhance accessibility and transparency within the legal system, the argument for open source development of legaltech and AI is particularly compelling. Not only does open source software bring a system's capabilities to light, but crucially, its limitations.
@@ -15,5 +15,6 @@ The collaborative nature of open source development empowers a diverse community
 ### Building Trust
 Trust is paramount when dealing with legal matters. Open source practices foster trust by allowing everyone to peek behind the curtain and see the decision-making process. If people are expected to trust an AI with their legal issues, they should be able to access the mechanisms guiding those decisions.
 
+---
 
 In summary, open-source legal AI revolves around three key pillars: transparency, collaboration, and trust. Their interplay not only strengthens the AI systems capabilities, but enables our community to build a more equitable legal landscape.

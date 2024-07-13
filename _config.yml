@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: OpenProBono
-email: contact@openprobono.com
+# email: contact@openprobono.com
 description: >- # this means to ignore newlines until "baseurl:"
   Legal AI for All
 domain: openprobono.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://openprobono.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
 
-twitter_username: openprobono
-github_username:  openprobono
+# twitter_username: openprobono
+# github_username:  openprobono
 
 # Build settings
 theme: minima
