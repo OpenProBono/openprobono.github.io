@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Introducing the OpenProBono Opinion Search tool"
-date: 2024-07-10 12:09:45 -0400
+title: "Template Post"
+date: 2025-07-10 12:09:45 -0400
 ---
+
 
 We are hard at work building and evaluating our general legal search AI, getting it ready to be released to the public here at OpenProBono. However, we found that one of the ‘tools’ we built for our AI to interact with the [Courtlistener API](https://www.courtlistener.com) could be useful even on its own. As a result, we decided to release this tool immedietly.
 
