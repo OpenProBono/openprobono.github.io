@@ -11,6 +11,6 @@ Learn more at www.openprobono.com
 
 ### The Founders
 
-Arman Aydemir ![Arman Profile Photo](assets/images/arman_profile.jpeg)
+Arman Aydemir ![Arman Profile Photo](assets/images/arman_profile.jpeg){:width="10%"}
 
-Nick Colvin ![Nick Profile Photo](assets/images/nick_profile.jpeg)
+Nick Colvin ![Nick Profile Photo](assets/images/nick_profile.jpeg){:width="10%"}
