@@ -9,7 +9,7 @@ Over 80% of Americans can’t afford legal help, and over 120 million legal prob
 
 Learn more at www.openprobono.com
 
-###About the Founders
+### About the Founders
 
 Arman Aydemir: Arman started thinking about applying NLP to the legal domain over 5 years ago when studying ML at CU Boulder. He published research and started a PhD after graduating to continue studying this topic. Unsatisfied with the lack of practical applicability of his research, he left the program and entered the workforce for a year before deciding to pursue building a legal NLP company full-time. He has the technical ability, knowledge of the landscape, vision, and will to make this company succeed.
 
